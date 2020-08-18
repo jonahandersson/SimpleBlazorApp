@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Jonah.BlazorApp.Server", "Dev.Jonah.BlazorApp\Server\Dev.Jonah.BlazorApp.Server.csproj", "{6C8D361D-C2F4-4E5C-8986-D6F74FD3165C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Jonah.BlazorApp.Server", "Dev.Jonah.BlazorApp\Server\Dev.Jonah.BlazorApp.Server.csproj", "{6C8D361D-C2F4-4E5C-8986-D6F74FD3165C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Jonah.BlazorApp.Client", "Dev.Jonah.BlazorApp\Client\Dev.Jonah.BlazorApp.Client.csproj", "{89F36EB1-E832-489F-A013-D80FEA883DA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Jonah.BlazorApp.Client", "Dev.Jonah.BlazorApp\Client\Dev.Jonah.BlazorApp.Client.csproj", "{89F36EB1-E832-489F-A013-D80FEA883DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Jonah.BlazorApp.Shared", "Dev.Jonah.BlazorApp\Shared\Dev.Jonah.BlazorApp.Shared.csproj", "{B00C2A60-153B-4841-85DF-D4C79C5CDF6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Jonah.BlazorApp.Shared", "Dev.Jonah.BlazorApp\Shared\Dev.Jonah.BlazorApp.Shared.csproj", "{B00C2A60-153B-4841-85DF-D4C79C5CDF6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
